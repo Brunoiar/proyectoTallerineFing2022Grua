@@ -1,0 +1,4 @@
+El eje X es el horizonal 
+El eje Y es el vertical, cuidado que son diferentes los pines steap y dir, a como trabajamos el Viernes
+
+En la imagen de cableado para los sensores y actuadores, estan indicados los pines de señal/lectura, pero los de gnd y 5v los tome como obvios 
